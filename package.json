@@ -1,0 +1,24 @@
+{
+  "name": "practice-python",
+  "version": "1.0.0",
+  "description": "Proyecto en el que se resuelven diversos problemas usando Python 🐍",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chebeto/practice-python.git"
+  },
+  "keywords": [
+    "python",
+    "practice",
+    "github"
+  ],
+  "author": "Chebs || <oswaldo.sanchez@gmx.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chebeto/practice-python/issues"
+  },
+  "homepage": "https://github.com/chebeto/practice-python#readme"
+}
